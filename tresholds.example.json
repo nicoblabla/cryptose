@@ -1,0 +1,12 @@
+[
+    {
+        "token": "ETH",
+        "price": "5000",
+        "moreOrLess": "+"
+    },
+    {
+        "token": "BTC",
+        "price": "1000.4",
+        "moreOrLess": "-"
+    }
+]

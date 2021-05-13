@@ -1,0 +1,12 @@
+{
+    "CMC_API_KEY": "",
+    "treshold": 12,
+    "interval": 600,
+    "coins": [
+        "BTC",
+        "ETC"
+    ],
+    "convert": "EUR",
+    "saveFile": false,
+    "saveLocation": "data.json"
+}

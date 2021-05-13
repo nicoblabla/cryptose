@@ -1,0 +1,74 @@
+{
+	"status": {
+		"timestamp": "2021-05-06T11:50:03.290Z",
+		"error_code": 0,
+		"error_message": null,
+		"elapsed": 385,
+		"credit_count": 1,
+		"notice": null
+	},
+	"data": {
+		"BCH": {
+			"id": 1831,
+			"name": "Bitcoin Cash",
+			"symbol": "BCH",
+			"slug": "bitcoin-cash",
+			"num_market_pairs": 583,
+			"date_added": "2017-07-23T00:00:00.000Z",
+			"tags": ["mineable", "pow", "sha-256", "marketplace", "medium-of-exchange", "store-of-value", "enterprise-solutions", "payments", "binance-chain"],
+			"max_supply": 21000000,
+			"circulating_supply": 18729175,
+			"total_supply": 18729175,
+			"is_active": 1,
+			"platform": null,
+			"cmc_rank": 9,
+			"is_fiat": 0,
+			"last_updated": "2021-05-06T11:48:12.000Z",
+			"quote": {
+				"EUR": {
+					"price": 1194.3954096026257,
+					"volume_24h": 12506300029.416803,
+					"percent_change_1h": 1.97522984,
+					"percent_change_24h": 17.59999738,
+					"percent_change_7d": 57.14065346,
+					"percent_change_30d": 115.8571158,
+					"percent_change_60d": 181.82122489,
+					"percent_change_90d": 229.54097475,
+					"market_cap": 22370040645.644257,
+					"last_updated": "2021-05-06T11:49:09.000Z"
+				}
+			}
+		},
+		"ETC": {
+			"id": 1321,
+			"name": "Ethereum Classic",
+			"symbol": "ETC",
+			"slug": "ethereum-classic",
+			"num_market_pairs": 277,
+			"date_added": "2016-07-24T00:00:00.000Z",
+			"tags": ["mineable", "pow", "ethash", "platform", "smart-contracts", "dcg-portfolio"],
+			"max_supply": 210700000,
+			"circulating_supply": 116313299,
+			"total_supply": 116313299,
+			"is_active": 1,
+			"platform": null,
+			"cmc_rank": 16,
+			"is_fiat": 0,
+			"last_updated": "2021-05-06T11:49:05.000Z",
+			"quote": {
+				"EUR": {
+					"price": 87.62116124405793,
+					"volume_24h": 20947035200.26157,
+					"percent_change_1h": -0.75949371,
+					"percent_change_24h": 43.19348969,
+					"percent_change_7d": 200.75145281,
+					"percent_change_30d": 494.34606104,
+					"percent_change_60d": 814.70272809,
+					"percent_change_90d": 1191.0400342,
+					"market_cap": 10191506326.507322,
+					"last_updated": "2021-05-06T11:49:09.000Z"
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,16 @@
+config.json
+cmc.json
+tresholds.json
+dev.json
+logs/
+forever/
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+.DS_Store
+*.log
+node_modules/
